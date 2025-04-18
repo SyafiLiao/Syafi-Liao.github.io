@@ -1,2 +1,2 @@
-# Syafi-Liao.github.io
+# SyafiLiao.github.io
 Personal Projects
